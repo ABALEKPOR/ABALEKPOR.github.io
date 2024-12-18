@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+    color: white;
+}
+h3 {
+    background-color: rgb(2, 29, 2);
+}
+td {
+    border: 2px solid rgb(207, 196, 196);
+    border-collapse: separate;
+    background-color: rgb(47, 42, 42);
+    border-color: rgb(147, 93, 93);
+}
+span{
+    color: rgb(2, 29, 2);
+    font-family: Arial
+}
+p {
+    font-family: Time New Roman;
+}
+h2 {
+    font-family:Time New Roman;
+}
+
