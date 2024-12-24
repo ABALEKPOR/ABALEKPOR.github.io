@@ -27,6 +27,7 @@ h2 {
 }
 .voiture {
     text-align: left;
+    justify-items: left;
     
 }
 
