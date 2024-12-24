@@ -1,6 +1,10 @@
 body {
     background-color: black;
     color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 15%;
+    margin-bottom: 15%;
 }
 h3 {
     background-color: rgb(2, 29, 2);
