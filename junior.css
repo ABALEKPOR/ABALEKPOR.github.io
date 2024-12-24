@@ -23,8 +23,10 @@ h2 {
 }
 .name {
     text-align: center;
+    justify-items: center;
 }
 .voiture {
-    text-align: right;
+    text-align: left;
+    
 }
 
