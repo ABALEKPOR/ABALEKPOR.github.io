@@ -21,4 +21,10 @@ p {
 h2 {
     font-family:Time New Roman;
 }
+.name {
+    text-align: center;
+}
+.voiture {
+    text-align: right;
+}
 
